@@ -1,5 +1,5 @@
 "# simple-lab.github.io" 
 
-<div>
+<div style="width: 100%; height: 100px; background-color: #e8ebf5;">
 A
 </div>
