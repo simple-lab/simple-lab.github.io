@@ -1,5 +1,3 @@
-"# simple-lab.github.io" 
+![README BANNER](/README_Banner.png)
 
-<div style="width: 100%; height: 100px; background-color: #e8ebf5;">
-A
-</div>
+## 소박한 연구소 (simple-lab.github.io)
